@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "defi-terminal"
+version = "0.1.0"
+description = ""
+authors = ["Andrew Siah <andrew.siah@abra.com>"]
+readme = "README.md"
+packages = [{include = "defi_terminal"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
+pandas = "^1.5.3"
+streamlit = "^1.19.0"
+plotly = "^5.14.1"
+numpy = "^1.24.3"
+ccxt = "^3.0.102"
+web3 = "^5.31.3"
+websocket-client = "^1.5.1"
+pendulum = "^2.1.2"
+Flask = "^2.3.2"
+aioetherscan = "^0.8.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

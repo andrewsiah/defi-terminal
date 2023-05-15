@@ -1,0 +1,34 @@
+{
+    "labels": [
+        {
+            "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": [
+                "label1", "label2"
+            ]
+        },
+        {
+            "0xf503ccc4f4a7efc25b00cb92dd74c9470bbba586": [
+                "label1", "label2"
+            ]
+        },
+        {
+            "0xf503ccc4f4a7efc25b00cb92dd74c9470bbba586": [
+                "label1"
+            ]
+        },
+        {
+            "0xaba64c3461453c6ea7f52f859aaeab94b1bc591f": [
+                "label1"
+            ]
+        },
+        {
+            "0xe46b1e36a3f8c14366cb51788af0c68d3662a8b4": [
+                "label2"
+            ]
+        },
+        {
+            "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": [
+                "label1", "label2"
+            ]
+        }
+    ]
+}
